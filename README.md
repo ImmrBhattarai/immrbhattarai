@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <br><br>
 <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px> 
 ### Hi there 👋
-I am immrbhattarai, a quick learner and community leader. 
+I am Suraj Bhattarai, a quick learner and a community leader. 
 I inspire students and peers with my amazing learnings and skills.
 I am currently a **system administrator** and exploring more **SAAS technology**.
 For contact and details: [Click Here](https://www.bhattaraisuraj.com.np)
